@@ -1,5 +1,7 @@
 # 秦腔脸谱 · 声音情绪粒子图
 
+> 在线体验：[https://fakerjavascrip.github.io/face/](https://fakerjavascrip.github.io/face/)
+
 单页 Web 应用：通过麦克风采集声音，从音量、音高、音色等特征推断当前「情绪」，驱动数千粒子聚合成对应的秦腔脸谱轮廓，并在界面同步展示参考脸谱图与文案说明。
 
 ---
